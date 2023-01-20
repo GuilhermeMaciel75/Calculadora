@@ -1,4 +1,3 @@
-#Calculadora em python
+# Calculadora em python
 
 - Utilizando Tkinter para fazer a UI
-- 
